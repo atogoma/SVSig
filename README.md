@@ -1,5 +1,5 @@
 # SVsig
-a tools for structural variation mutational signature
+a tool for structural variation mutational signature
 
 SVSig is an end-to-end pipeline for mutational signature analysis of structural variants (SVs) from whole-genome sequencing data. It integrates breakpoint sequence features, copy number variation (CNV) metrics, and a minimum-volume non-negative matrix factorization (mvNMF) model to extract stable and biologically interpretable SV signatures.
 
